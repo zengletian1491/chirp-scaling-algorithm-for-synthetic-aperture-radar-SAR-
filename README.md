@@ -30,3 +30,6 @@ working conditions：height of flying platform is 0；squint angle is 5 degree�
 1）Contour map
 
 ![Uploading 2024-06-13_221403.png…]()
+
+![image](https://github.com/zengletian1491/chirp-scaling-algorithm-for-synthetic-aperture-radar-SAR-/assets/53558305/2abe1e6e-7c9c-411f-96a2-7496c9b97e33)
+
