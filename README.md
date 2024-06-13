@@ -37,7 +37,9 @@ working conditions：height of flying platform is 0；squint angle is 5 degree�
 ![image](https://github.com/zengletian1491/chirp-scaling-algorithm-for-synthetic-aperture-radar-SAR-/assets/53558305/832a45b5-8f96-4457-9722-8a89046d511b)
 
 PSLR：-13.262402147031269dB
+
 ISLR：-10.007060553291272dB
+
 Range resolution：0.740131578947368
 
 3）Impulse response function in the azimuth direction
@@ -45,5 +47,7 @@ Range resolution：0.740131578947368
 ![image](https://github.com/zengletian1491/chirp-scaling-algorithm-for-synthetic-aperture-radar-SAR-/assets/53558305/35e888aa-54ef-45ef-a344-58ae6fb151d5)
 
 PSLR：-13.255907480901307dB
+
 ISLR：-10.133482617395753dB
-Range resolution：0.668250000000000
+
+Azimuth resolution：0.668250000000000
