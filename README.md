@@ -24,3 +24,9 @@ working conditions：height of flying platform is 0；squint angle is 5 degree�
 
 
 2）The peak sidelobe ratio (PSLR) and the integrated sidelobe ratio (ISLR) are calculated by the functions PSLR() and ISLR(), respectively. In addition, the contour map can be drown by the function Interplate2D().
+
+3.Imaging results
+
+1）Contour map
+
+![Uploading 2024-06-13_221403.png…]()
