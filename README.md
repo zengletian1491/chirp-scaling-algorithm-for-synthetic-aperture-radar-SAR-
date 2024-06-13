@@ -23,4 +23,4 @@ working conditions：height of flying platform is 0；squint angle is 5 degree�
 1）You can change the value of "nan" (in the .m programs), making it satisfy the length of a synthetic aperture.
 
 
-2）The peak sidelobe ratio (PSLR) and the integrated sidelobe ratio (ISLR) are calculated by the functions PSLR() and ISLR(), respectively. In addition, the contour map can be drown by the function Interplated2D().
+2）The peak sidelobe ratio (PSLR) and the integrated sidelobe ratio (ISLR) are calculated by the functions PSLR() and ISLR(), respectively. In addition, the contour map can be drown by the function Interplate2D().
