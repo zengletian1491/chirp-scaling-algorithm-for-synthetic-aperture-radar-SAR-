@@ -40,7 +40,7 @@ PSLR：-13.262402147031269dB
 
 ISLR：-10.007060553291272dB
 
-Range resolution：0.740131578947368
+Range resolution：0.740131578947368m
 
 3）Impulse response function in the azimuth direction
 
@@ -50,4 +50,4 @@ PSLR：-13.255907480901307dB
 
 ISLR：-10.133482617395753dB
 
-Azimuth resolution：0.668250000000000
+Azimuth resolution：0.668250000000000m
