@@ -1,4 +1,5 @@
-SAR Imaging——chirp scaling algorithm(CSA)
+chirp scaling algorithm(CSA) for synthetic aperture radar (SAR) imaging
+
 1.Run
 
 You can run the following three .m programs directly on Matlab. These programs are tested on Matlab 2015a.
@@ -20,5 +21,6 @@ working conditions：height of flying platform is 0；squint angle is 5 degree�
 2.Note
 
 You can change the value of "nan" (in the .m programs), making it satisfy the length of a synthetic aperture.
+
 
 3. The peak sidelobe ratio (PSLR) and the integrated sidelobe ratio (ISLR) are calculated by the functions PSLR() and ISLR(), respectively. In addition, the contour map can be drown by the function Interplated2D().
