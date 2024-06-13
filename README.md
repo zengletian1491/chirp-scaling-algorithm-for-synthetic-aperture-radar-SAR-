@@ -29,7 +29,21 @@ working conditions：height of flying platform is 0；squint angle is 5 degree�
 
 1）Contour map
 
-![Uploading 2024-06-13_221403.png…]()
+![image](https://github.com/zengletian1491/chirp-scaling-algorithm-for-synthetic-aperture-radar-SAR-/assets/53558305/537e216e-3a9f-4a79-8f64-992ebfdea956)
 
-![image](https://github.com/zengletian1491/chirp-scaling-algorithm-for-synthetic-aperture-radar-SAR-/assets/53558305/2abe1e6e-7c9c-411f-96a2-7496c9b97e33)
 
+2）Impulse response function in the range direction
+
+![image](https://github.com/zengletian1491/chirp-scaling-algorithm-for-synthetic-aperture-radar-SAR-/assets/53558305/832a45b5-8f96-4457-9722-8a89046d511b)
+
+PSLR：-13.262402147031269dB
+ISLR：-10.007060553291272dB
+Range resolution：0.740131578947368
+
+3）Impulse response function in the azimuth direction
+
+![image](https://github.com/zengletian1491/chirp-scaling-algorithm-for-synthetic-aperture-radar-SAR-/assets/53558305/35e888aa-54ef-45ef-a344-58ae6fb151d5)
+
+PSLR：-13.255907480901307dB
+ISLR：-10.133482617395753dB
+Range resolution：0.668250000000000
